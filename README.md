@@ -1,2 +1,2 @@
 # fillit
-Duo project. The program place tetriminos in the smallest square
+Duo project. The program places tetriminos in the smallest square
